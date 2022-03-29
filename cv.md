@@ -5,7 +5,7 @@
 * __Location:__ Russia, Moscow
 * __Phone:__ +7 915 104 68 23
 * __E-mail:__ ikolomeicev@gmail.com
-* __GitHub:__ [slyAquarius](https://github.com/slyAquarius "GitHub Profile") 
+* __GitHub/Telegram:__ [slyAquarius](https://github.com/slyAquarius "GitHub Profile") 
 
 
 ## About myself:

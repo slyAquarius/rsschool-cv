@@ -34,6 +34,16 @@ const func = (num) => {
 ```
 
 
+## Education:
+
+* __National Research University of Electronic Technology__
+* __Udemy__
+	* HTML/CSS
+* __HTML Academy__
+* __Hyperskill__
+	* Track: Frontend Developer (in progress...)
+
+
 ## Languages:
 * __Russian:__ - Native
 * __English:__ - A2 (B1 in process…)
